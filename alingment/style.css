@@ -1,0 +1,30 @@
+#quemark{
+    /* border: 1px solid red; */
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    border-radius: 50%;
+    background-color:  #606770 ;
+    color: aliceblue;
+    font-size: 20px;
+    padding: 5px;
+    font-weight: 900;
+}
+#gcont{
+    border: 1px solid red;
+    height: 50px;
+    width: 45%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.box{
+    /* border: 1px solid black; */
+    height: 20px;
+    width: 25%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}

@@ -1,0 +1,15 @@
+#card{
+    border: 1px solid red;
+    width: 250px;
+    height: 250px;
+    /* text-align: center; */
+    margin: auto;
+}
+#logo{
+    width: 100px;
+
+
+}
+h1{
+    width: 50px;
+}
